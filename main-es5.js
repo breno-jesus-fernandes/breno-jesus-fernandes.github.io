@@ -441,7 +441,7 @@
               imgUrl: 'assets/images/z14.png',
               tech: 'HTML, CSS, Bootstrap, Jquery'
             }];
-            this.about2 = "  Data Analyst with 2.0+ years of experience\n            . Software Enginner with 2.0+ years of experience\n            . AWS, Python, SQL and C# Certificated\n            . Expertise in any technology to solve a modern problem ";
+            this.about2 = "  Problem Solver with 2.0+ years of experience\n            . Software Enginner with 2.0+ years of experience\n            . AWS, Python, SQL and C# Certificated\n            . Expertise in any technology to solve a modern problem ";
             this.about = "Lover of innovation and everything related to generate new solutions. Face problems with a smile and solve them as soon as possible.";
             this.resumeurl = "https://drive.google.com/file/d/1XY0xlYDX8aZA1KwCnnjH6Y3G4iTWcV-D/view?usp=sharing";
             this.skillsData = [{
@@ -496,8 +496,8 @@
               company: 'Itau Unibanco',
               location: 'Sao Paulo',
               timeline: 'Set 2020 to Present',
-              role: 'Data Analyst',
-              work: 'Working as a Data Analyst. Responsible for handling the UI in React and Managing the api calls in python Flask.'
+              role: 'Problem Solver',
+              work: 'Working as a Problem Solver. Responsible for handling the UI in React and Managing the api calls in python Flask.'
             }, {
               id: 1,
               company: 'Evo Systems',
@@ -1402,7 +1402,7 @@
 
               _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "p", 10);
 
-              _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, "Data Analyst");
+              _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, "Problem Solver");
 
               _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 

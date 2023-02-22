@@ -309,7 +309,7 @@
                             tech: 'HTML, CSS, Bootstrap, Jquery'
                         },
                     ];
-                    this.about2 = `  Data Analyst with 2.0+ years of experience
+                    this.about2 = `  Problem Solver with 2.0+ years of experience
             . Software Enginner with 2.0+ years of experience
             . AWS, Python, SQL and C# Certificated
             . Expertise in any technology to solve a modern problem `;
@@ -385,8 +385,8 @@ Completed my Secondary school with 84%.`
                             company: 'Itau Unibanco',
                             location: 'Sao Paulo',
                             timeline: 'Set 2020 to Present',
-                            role: 'Data Analyst',
-                            work: 'Working as a Data Analyst. Responsible for handling the UI in React and Managing the api calls in python Flask.'
+                            role: 'Problem Solver',
+                            work: 'Working as a Problem Solver. Responsible for handling the UI in React and Managing the api calls in python Flask.'
                         },
                         {
                             id: 1,
@@ -871,7 +871,7 @@ Completed my Secondary school with 84%.`
                         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](10, "Breno Jesus Fernandes");
                         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "p", 10);
-                        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, "Data Analyst");
+                        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, "Problem Solver");
                         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
                         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
